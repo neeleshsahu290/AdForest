@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.onimur:handle-path-oz:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21009ac2bf18365c2ea8106afb2f65de/jetified-handle-path-oz-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21009ac2bf18365c2ea8106afb2f65de/jetified-handle-path-oz-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21009ac2bf18365c2ea8106afb2f65de/jetified-handle-path-oz-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.onimur/handle-path-oz/1.0.7/fab9c595a94fc1ab6357844a92665c4bcecadc7b/handle-path-oz-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.onimur/handle-path-oz/1.0.7/3e80966082f340db9d14e6f8071494198d04b017/handle-path-oz-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

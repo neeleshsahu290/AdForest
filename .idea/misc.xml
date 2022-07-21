@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/bg_countdown_home.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/border_edittext_price.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_arrow_down_.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_blogger_icon.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_bold_text_option.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_btnwhatsapp.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_button_selector.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_buttontextcolor.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_calendar.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_controls.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_controlsblack.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_dealer.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_directions_black_24dp.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_exit_to_app_black_24dp.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_favorite_border.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_format_list_bulleted.xml" value="0.1755" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_google.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_google_plus.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_heart.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_help_outline_black_24dp.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_home_white_24dp.xml" value="0.1755" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_left_arrow.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/ic_list_with_bullets.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/selected_textview.xml" value="0.1415" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/drawable/slide_in_right.xml" value="0.1325" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-large/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-large/login_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-normal/activity_splash_screen.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-normal/login_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-normal/signup_layout.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-v21/activity_add_new_ad_post.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-xlarge/activity_splash_screen.xml" value="0.26328125" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout-xlarge/login_layout.xml" value="0.26328125" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_add_new_ad_post.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_category.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_catsecond.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_edit_ad_post.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_search.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_settings.xml" value="0.14956140350877192" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_splash_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/activity_world_pay_integration.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/app_bar_home.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/content_add_new_post_ad.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/content_edit_post_ad.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/content_home.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/content_search.xml" value="0.2277027027027027" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/dialog_message.xml" value="0.14956140350877192" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_cat_subcatlist.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_category.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_catgory_detaillist.xml" value="0.28815733219324496" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_home_multi.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_main_view_login.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_main_view_register.xml" value="0.11217105263157895" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_myadd.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_search.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/fragment_sign_up_phone.xml" value="0.22171052631578947" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/item_Category_single.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/item_category_single.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/item_listview_multiple.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/item_listview_single.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/login_layout.xml" value="0.3955399061032864" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/signup_layout.xml" value="1.0789473684210527" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/spinner_item_medium.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/spinner_item_medium_new.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/layout/spinner_itemlarge.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/newww/AdForest/app/src/main/res/xml/pref_main.xml" value="0.1408274132887589" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-android:8.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7adabfcdc6e1879d8b91b86fae1f08be/jetified-stripe-android-8.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd28c610c70144b26cf3dc1dd9fc2bf1/jetified-stripe-android-8.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7adabfcdc6e1879d8b91b86fae1f08be/jetified-stripe-android-8.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7adabfcdc6e1879d8b91b86fae1f08be/jetified-stripe-android-8.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7adabfcdc6e1879d8b91b86fae1f08be/jetified-stripe-android-8.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd28c610c70144b26cf3dc1dd9fc2bf1/jetified-stripe-android-8.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd28c610c70144b26cf3dc1dd9fc2bf1/jetified-stripe-android-8.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd28c610c70144b26cf3dc1dd9fc2bf1/jetified-stripe-android-8.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-android/8.1.0/7938ebac6af9f15608289c9129435d4b63242e2a/stripe-android-8.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-android/8.1.0/e644d15f0caf8f35fe445e8cb6fe59ee825528c3/stripe-android-8.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

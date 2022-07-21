@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.faltenreich:skeletonlayout:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aef13587c5e1db7e81bf5bcde66500e3/jetified-skeletonlayout-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aef13587c5e1db7e81bf5bcde66500e3/jetified-skeletonlayout-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aef13587c5e1db7e81bf5bcde66500e3/jetified-skeletonlayout-2.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.faltenreich/skeletonlayout/2.0.1/9ba2d9fdb1bee99bd8cef7254c7690987e62b49b/skeletonlayout-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.faltenreich/skeletonlayout/2.0.1/ff7367e25fe4e00876ddde759d6fb86905f3c33d/skeletonlayout-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yatindeokar:MyLoadingButton:v1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/680543022a53234d568bd67472a55405/jetified-MyLoadingButton-v1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/680543022a53234d568bd67472a55405/jetified-MyLoadingButton-v1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/680543022a53234d568bd67472a55405/jetified-MyLoadingButton-v1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3aa15cbc6ae831a0328740e1a000c115/jetified-MyLoadingButton-v1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3aa15cbc6ae831a0328740e1a000c115/jetified-MyLoadingButton-v1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3aa15cbc6ae831a0328740e1a000c115/jetified-MyLoadingButton-v1.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yatindeokar/MyLoadingButton/v1.0.1/25e93e871e35ae959848fda69a7997c3e7af7eb3/MyLoadingButton-v1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

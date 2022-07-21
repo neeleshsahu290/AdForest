@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="type_to_search">اكتب للبحث</string>
+    <string name="back">عودة</string>
+    <string name="next">التالي</string>
+    <string name="city_validation">الرجاء تحديد اسم المدينة</string>
+    <string name="town_validation">الرجاء تحديد اسم المدينة</string>
+    <string name="string_item_name">Item Name</string>
+    <string name="not_found">Not Found!</string>
+    <string name="no_result_found">لم يتم العثور على نتيجة</string>
+</resources>

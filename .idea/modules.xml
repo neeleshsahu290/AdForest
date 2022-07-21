@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdForest.iml" filepath="$PROJECT_DIR$/.idea/modules/AdForest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AdForest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AdForest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collageimageview/AdForest.collageimageview.iml" filepath="$PROJECT_DIR$/.idea/modules/collageimageview/AdForest.collageimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gligar/AdForest.gligar.iml" filepath="$PROJECT_DIR$/.idea/modules/gligar/AdForest.gligar.iml" />
+    </modules>
+  </component>
+</project>

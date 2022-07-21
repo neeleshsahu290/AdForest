@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630224482534",
+    "project_id": "adforest-e3ccf",
+    "storage_bucket": "adforest-e3ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630224482534:android:effa769d72e3cdff374b27",
+        "android_client_info": {
+          "package_name": "com.scriptsbundle.adforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630224482534-o02tfh97tmtq7mi90qloifqq4fb7mk5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyatPKYImCZNVQXaZfwOv-IoGnRqcPJXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630224482534-o02tfh97tmtq7mi90qloifqq4fb7mk5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sung2063:AndroidSliderViewsLibrary:1.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe4d7658855de14912bab94f99198990/jetified-AndroidSliderViewsLibrary-1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe4d7658855de14912bab94f99198990/jetified-AndroidSliderViewsLibrary-1.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe4d7658855de14912bab94f99198990/jetified-AndroidSliderViewsLibrary-1.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sung2063/AndroidSliderViewsLibrary/1.7/a4f553fea59bfd3979f816c9b57504b1dfc793d4/AndroidSliderViewsLibrary-1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
